@@ -1,5 +1,5 @@
 Saludos, soy Sicker, Dzulum es un proyecto que llevo a cabo aqui, mientras hago intentos de armar mi propio generdor de sitios estaticos en PHP  
-Soy mexicano de 35 años, autodidacta.  
+Soy mexicano de 35 años, autodidacta. (38 y atascado en lo mismo...) 
 Escribo Terror de manera amateur.  
 Recolipador compulsivo de codigo y wallpapers que encontraras en mis repositorios.  
 Me gustaria colaborar algun dia con alguien interesado en crear plantillas para Jekyll.
